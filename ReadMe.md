@@ -10,4 +10,5 @@
 此处为GIT专用部分
 这里模拟多分支合并冲突
 Feature_b还在前面加了一行
-A:Feature_a：我加了一行 后进行Commit；这里模拟出现生产BUG需要紧急修复。修复成功后需要删除该分支。这里为演示方(修复后);B:Feature_b：我加了一行 后进行Commit；
+A:Feature_a：我加了一行 后进行Commit；这里模拟出现生产BUG需要紧急修复。修复成功后需要删除该分支。这里为演示方(修复后);B:Feature_b：我加了一行 后进行Commit；C:Feature_c：我加了一行 后进行Commit；
+Feature_c还额外加了一行在后面
